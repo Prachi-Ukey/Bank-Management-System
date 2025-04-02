@@ -1,4 +1,4 @@
-#Bank Management System
+# Bank Management System
 
 A desktop-based banking application enabling users
 to create accounts, perform transactions (deposit/withdraw), and view account details. 
